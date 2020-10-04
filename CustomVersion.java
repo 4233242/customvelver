@@ -7,7 +7,7 @@ import com.velocitypowered.api.proxy.ProxyServer;
 import com.velocitypowered.api.proxy.server.ServerPing;
 import org.slf4j.Logger;
 
-@Plugin(id = "CustomVersion", name = "VelocityCustomVersion", version = "1.0-SNAPSHOT", description = "Show the supported versions", authors = {"Aderm"})
+@Plugin(id = "UltimateVersion", name = "UltimateCustomVersion", version = "1.1", description = "Excellent new versions", authors = {"Aderm"})
 public class CustomVersion {
 
     private final ProxyServer server;
